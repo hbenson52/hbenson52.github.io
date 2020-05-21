@@ -1,6 +1,6 @@
 ---
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: Haleigh's GitHub Website
+description: Storage for Class
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
