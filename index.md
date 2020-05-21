@@ -1,5 +1,5 @@
 ---
-title: Haleigh's GitHub Website
+title: Haleigh's GitHub Website 
 description: Module 3 Assignment
 ---
 
