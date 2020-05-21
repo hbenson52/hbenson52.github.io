@@ -1,6 +1,6 @@
 ---
-title: Haleigh's GitHub Website 
-description: Module 3 Assignment
+title: [The title of your site]
+description: [A short description of your site's purpose]
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
